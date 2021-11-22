@@ -14,10 +14,10 @@ console.log("Plot Length " + length + " Feet");
 console.log("Plot width " + width + " Feet");
 
 let areaInFeet = length * width;
-console.log("Total Reckangular plot area in feet is : " + areaInFeet);
+console.log("Total Rectangular plot area in feet is : " + areaInFeet);
 
 let areaInMeters = (areaInFeet / oneMeterInFeet);
-console.log("Total Reckangular plot area in meters is : " + areaInMeters);
+console.log("Total Rectangular plot area in meters is : " + areaInMeters);
 
 // c.
 let acrearea = 25 * areaInMeters;
